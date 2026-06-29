@@ -1,6 +1,6 @@
 {
-  "version": "2.2.8.0",
+  "version": "2.2.9.0",
   "changelog": "1. 新增零成本检查更新功能\n2. 修复检查更新按钮不随主题色变化\n3. 优化打包体积",
   "url": "https://github.com/Ericlcxcn/Winter-MusicPlayer/releases/latest",
-  "download_url": "https://github.com/Ericlcxcn/Winter-MusicPlayer/releases/download/v2.2.8.0/WinterMusicPlayerSetup-2.2.8.0.exe"
+  "download_url": "https://github.com/Ericlcxcn/Winter-MusicPlayer/releases/download/v2.2.9.0/WinterMusicPlayerSetup-2.2.9.0.exe"
 }
